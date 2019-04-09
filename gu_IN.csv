@@ -1,0 +1,58 @@
+Remove,"દૂર કરો"
+Price,કિંમત
+Quantity,જથ્થો
+ID,આઇડી
+Action,ક્રિયા
+Message,સંદેશ
+No,ના
+Yes,હા
+Save,સાચવો
+Delete,"કાઢી નાખો"
+"Save and Continue Edit","સાચવો અને સંપાદિત કરવાનું ચાલુ રાખો"
+None,"કંઈ નહીં"
+"Please Select","કૃપા કરી પસંદ કરો"
+Back,પાછું
+Edit,"સંપાદિત કરો"
+Name,નામ
+Email,ઇમેઇલ
+"* Required Fields","* જરૂરી માહિતી"
+Status,સ્થિતિ
+Actions,ક્રિયાઓ
+Enabled,સક્ષમ
+Cancel,"રદ કરો"
+Done,પૂર્ણ
+OK,"ઠીક છે"
+Close,બંધ
+Ok,"ઠીક છે"
+Submit,"સબમિટ કરો"
+Apply,"અરજી કરો"
+Export,નિકાસ
+Required,ફરજિયાત
+None,"એકે નહિ"
+"--Please Select--","--કૃપા કરી પસંદ કરો--"
+status,સ્થિતિ
+Enable,"સક્ષમ કરો"
+Disabled,અક્ષમ
+name,નામ
+All,બધા
+"Please select","કૃપા કરી પસંદ કરો"
+Import,આયાત
+message,સંદેશ
+Disable,"અક્ષમ કરો"
+"Change Status","સ્થિતિ બદલો"
+"Change status","સ્થિતિ બદલો"
+none,"કંઈ નહીં"
+quantity,જથ્થો
+email,ઇમેઇલ
+edit,"સંપાદિત કરો"
+ALL,બધા
+yes,હા
+no,ના
+options,વિકલ્પો
+"Select all","બધા પસંદ કરો"
+"Deselect all","બધા નાપસંદ કરો"
+"%s of %s selected","%s પસંદ કરેલ %s માંથી"
+"B2B Features","બી2બી લક્ષણો"
+Id,આઇડી
+save,સાચવો
+close,બંધ
