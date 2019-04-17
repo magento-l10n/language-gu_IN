@@ -54,5 +54,10 @@ options,વિકલ્પો
 "%s of %s selected","%s પસંદ કરેલ %s માંથી"
 "B2B Features","બી2બી લક્ષણો"
 Id,આઇડી
+"Allowed Scopes","મંજૂર સ્કોપો"
+"You need more permissions to delete this item(s): %1.","આ આઇટમ(મો) ને કાઢી નાખવા માટે તમને વધુ પરવાનગીઓની જરૂર છે.: %1."
+"You need more permissions to apply some of the rule updates.","તમને કેટલાક નિયમ અપડેટ્સ લાગુ કરવા માટે વધુ પરવાનગીઓની જરૂર છે."
+"Manage Shopping Cart","શોપિંગ કાર્ટ મેનેજ કરો"
+"Create Order","ઓર્ડર બનાવો"
 save,સાચવો
 close,બંધ
