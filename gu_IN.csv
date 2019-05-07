@@ -1,63 +1,74 @@
-Remove,"દૂર કરો"
-Price,કિંમત
-Quantity,જથ્થો
+Yes,હા
+No,ના
+None,"કંઈ નહીં"
+Status,સ્થિતિ
 ID,આઇડી
 Action,ક્રિયા
-Message,સંદેશ
-No,ના
-Yes,હા
-Save,સાચવો
-Delete,"કાઢી નાખો"
-"Save and Continue Edit","સાચવો અને સંપાદિત કરવાનું ચાલુ રાખો"
-None,"કંઈ નહીં"
-"Please Select","કૃપા કરી પસંદ કરો"
-Back,પાછું
 Edit,"સંપાદિત કરો"
+Delete,"કાઢી નાખો"
 Name,નામ
-Email,ઇમેઇલ
-"* Required Fields","* જરૂરી માહિતી"
-Status,સ્થિતિ
+Price,કિંમત
+Quantity,જથ્થો
 Actions,ક્રિયાઓ
+Back,પાછું
+"* Required Fields","* જરૂરી માહિતી"
 Enabled,સક્ષમ
+"Save and Continue Edit","સાચવો અને સંપાદિત કરવાનું ચાલુ રાખો"
+Save,સાચવો
 Cancel,"રદ કરો"
-Done,પૂર્ણ
-OK,"ઠીક છે"
-Close,બંધ
-Ok,"ઠીક છે"
-Submit,"સબમિટ કરો"
-Apply,"અરજી કરો"
-Export,નિકાસ
-Required,ફરજિયાત
-None,"એકે નહિ"
-"--Please Select--","--કૃપા કરી પસંદ કરો--"
-status,સ્થિતિ
-Enable,"સક્ષમ કરો"
-Disabled,અક્ષમ
-name,નામ
-All,બધા
-"Please select","કૃપા કરી પસંદ કરો"
+Remove,"દૂર કરો"
+Email,ઇમેઇલ
 Import,આયાત
-message,સંદેશ
-Disable,"અક્ષમ કરો"
 "Change Status","સ્થિતિ બદલો"
+All,બધા
+Disabled,અક્ષમ
+message,સંદેશ
+Done,પૂર્ણ
+name,નામ
+Submit,"સબમિટ કરો"
+OK,"ઠીક છે"
 "Change status","સ્થિતિ બદલો"
+Enable,"સક્ષમ કરો"
+Disable,"અક્ષમ કરો"
+Ok,"ઠીક છે"
 none,"કંઈ નહીં"
-quantity,જથ્થો
-email,ઇમેઇલ
-edit,"સંપાદિત કરો"
+Close,બંધ
+Apply,"અરજી કરો"
 ALL,બધા
+"Manage Shopping Cart","શોપિંગ કાર્ટ મેનેજ કરો"
+"Create Order","ઓર્ડર બનાવો"
+"Please select","કૃપા કરી પસંદ કરો"
+Message,સંદેશ
+Id,આઇડી
+"--Please Select--","--કૃપા કરી પસંદ કરો--"
+"Please Select","કૃપા કરી પસંદ કરો"
+Export,નિકાસ
+email,ઇમેઇલ
+status,સ્થિતિ
+edit,"સંપાદિત કરો"
+"Allowed Scopes","મંજૂર સ્કોપો"
+"You need more permissions to delete this item(s): %1.","આ આઇટમ(મો) ને કાઢી નાખવા માટે તમને વધુ પરવાનગીઓની જરૂર છે.: %1."
+"You need more permissions to apply some of the rule updates.","તમને કેટલાક નિયમ અપડેટ્સ લાગુ કરવા માટે વધુ પરવાનગીઓની જરૂર છે."
+quantity,જથ્થો
 yes,હા
 no,ના
+close,બંધ
+save,સાચવો
 options,વિકલ્પો
 "Select all","બધા પસંદ કરો"
 "Deselect all","બધા નાપસંદ કરો"
 "%s of %s selected","%s પસંદ કરેલ %s માંથી"
 "B2B Features","બી2બી લક્ષણો"
-Id,આઇડી
-"Allowed Scopes","મંજૂર સ્કોપો"
-"You need more permissions to delete this item(s): %1.","આ આઇટમ(મો) ને કાઢી નાખવા માટે તમને વધુ પરવાનગીઓની જરૂર છે.: %1."
-"You need more permissions to apply some of the rule updates.","તમને કેટલાક નિયમ અપડેટ્સ લાગુ કરવા માટે વધુ પરવાનગીઓની જરૂર છે."
-"Manage Shopping Cart","શોપિંગ કાર્ટ મેનેજ કરો"
-"Create Order","ઓર્ડર બનાવો"
-save,સાચવો
-close,બંધ
+Required,ફરજિયાત
+None,"એકે નહિ"
+"Backup options","બૅકઅપ વિકલ્પો"
+Warning,ચેતવણી
+"No records found.","કોઈ રેકોર્ડ મળ્યાં નથી."
+"Recent items","તાજેતરની વસ્તુઓ"
+"Show all...","બધા જુઓ..."
+"Please enter a number greater 0 in this field.","કૃપા કરી ને 0 કરતા મોટી રકમ ધાખલ કરો."
+"Please select one of each ratings above.","કૃપા કરીને ઉપરની દરેક રેટિંગમાંથી એક પસંદ કરો."
+"Please specify Url.","કૃપા કરીને URLનો સ્પષ્ટ કરો."
+Next,આગળ
+more,વધુ
+Translate,"ભાષાંતર કરો"
