@@ -1,66 +1,71 @@
-Yes,હા
-No,ના
-None,"કંઈ નહીં"
-Status,સ્થિતિ
-ID,આઇડી
-Action,ક્રિયા
-Edit,"સંપાદિત કરો"
-Delete,"કાઢી નાખો"
-Name,નામ
-Price,કિંમત
-Quantity,જથ્થો
-Actions,ક્રિયાઓ
-Back,પાછું
-"* Required Fields","* જરૂરી માહિતી"
-Enabled,સક્ષમ
-"Save and Continue Edit","સાચવો અને સંપાદિત કરવાનું ચાલુ રાખો"
-Save,સાચવો
-Cancel,"રદ કરો"
-Remove,"દૂર કરો"
-Email,ઇમેઇલ
-Import,આયાત
-"Change Status","સ્થિતિ બદલો"
 All,બધા
-Disabled,અક્ષમ
-message,સંદેશ
-Done,પૂર્ણ
-name,નામ
-Submit,"સબમિટ કરો"
-OK,"ઠીક છે"
-"Change status","સ્થિતિ બદલો"
-Enable,"સક્ષમ કરો"
-Disable,"અક્ષમ કરો"
-Ok,"ઠીક છે"
-none,"કંઈ નહીં"
-Close,બંધ
-Apply,"અરજી કરો"
-ALL,બધા
-"Manage Shopping Cart","શોપિંગ કાર્ટ મેનેજ કરો"
-"Create Order","ઓર્ડર બનાવો"
-"Please select","કૃપા કરી પસંદ કરો"
-Message,સંદેશ
-Id,આઇડી
-"--Please Select--","--કૃપા કરી પસંદ કરો--"
-"Please Select","કૃપા કરી પસંદ કરો"
-Export,નિકાસ
-email,ઇમેઇલ
-status,સ્થિતિ
-edit,"સંપાદિત કરો"
+None,"કંઈ નહીં"
 "Allowed Scopes","મંજૂર સ્કોપો"
 "You need more permissions to delete this item(s): %1.","આ આઇટમ(મો) ને કાઢી નાખવા માટે તમને વધુ પરવાનગીઓની જરૂર છે.: %1."
 "You need more permissions to apply some of the rule updates.","તમને કેટલાક નિયમ અપડેટ્સ લાગુ કરવા માટે વધુ પરવાનગીઓની જરૂર છે."
-quantity,જથ્થો
-yes,હા
-no,ના
+"Please assign this entity to a store view.","કૃપા કરીને આ એન્ટિટીને સંગ્રહ મા સમાવિષ્ટ કરો."
+"You can create orders only in an active store.","તમે ફક્ત સક્રિય સ્ટોરમાં ઑર્ડર બનાવી શકો છો."
+"Please assign this item to a store view.","કૃપા કરીને આ વસ્તુને સંગ્રહ મા સમાવિષ્ટ કરો."
+"You need more permissions to save this item.","આ વસ્તુ ને સેવ કરવા માટે તમને વધુ પરવાનગીઓની જરૂર છે."
+"You need more permissions to delete this item.","આ વસ્તુ ને કાઢી નાખવા માટે તમને વધુ પરવાનગીઓની જરૂર છે."
+Remove,"દૂર કરો"
 close,બંધ
-save,સાચવો
+Close,બંધ
+Message,સંદેશ
+Actions,ક્રિયાઓ
+"Manage Shopping Cart","શોપિંગ કાર્ટ મેનેજ કરો"
+"Create Order","ઓર્ડર બનાવો"
+Back,પાછું
+Cancel,"રદ કરો"
+Price,કિંમત
+Quantity,જથ્થો
+ID,આઇડી
+Apply,"અરજી કરો"
+No,ના
+Action,ક્રિયા
+"Please select","કૃપા કરી પસંદ કરો"
+Edit,"સંપાદિત કરો"
+Yes,હા
+"--Please Select--","--કૃપા કરી પસંદ કરો--"
+Done,પૂર્ણ
+Status,સ્થિતિ
+"Please Select","કૃપા કરી પસંદ કરો"
+Enabled,સક્ષમ
 options,વિકલ્પો
 "Select all","બધા પસંદ કરો"
 "Deselect all","બધા નાપસંદ કરો"
 "%s of %s selected","%s પસંદ કરેલ %s માંથી"
 "B2B Features","બી2બી લક્ષણો"
+Email,ઇમેઇલ
+Disable,"અક્ષમ કરો"
+Enable,"સક્ષમ કરો"
+Delete,"કાઢી નાખો"
+Save,સાચવો
+Name,નામ
+Disabled,અક્ષમ
+Export,નિકાસ
+Submit,"સબમિટ કરો"
+"Save and Continue Edit","સાચવો અને સંપાદિત કરવાનું ચાલુ રાખો"
+"* Required Fields","* જરૂરી માહિતી"
+Import,આયાત
+"Change Status","સ્થિતિ બદલો"
+message,સંદેશ
+name,નામ
+OK,"ઠીક છે"
+"Change status","સ્થિતિ બદલો"
+Ok,"ઠીક છે"
+none,"કંઈ નહીં"
+edit,"સંપાદિત કરો"
+save,સાચવો
 Required,ફરજિયાત
 None,"એકે નહિ"
+status,સ્થિતિ
+quantity,જથ્થો
+ALL,બધા
+yes,હા
+no,ના
+Id,આઇડી
+email,ઇમેઇલ
 "Backup options","બૅકઅપ વિકલ્પો"
 Warning,ચેતવણી
 "No records found.","કોઈ રેકોર્ડ મળ્યાં નથી."
