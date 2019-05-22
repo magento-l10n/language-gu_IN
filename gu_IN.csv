@@ -36,23 +36,337 @@ options,વિકલ્પો
 "Deselect all","બધા નાપસંદ કરો"
 "%s of %s selected","%s પસંદ કરેલ %s માંથી"
 "B2B Features","બી2બી લક્ષણો"
-Email,ઇમેઇલ
-Disable,"અક્ષમ કરો"
-Enable,"સક્ષમ કરો"
+"Invalid Form Key. Please refresh the page.","
+                    અમાન્ય ફોર્મ કી. કૃપા કરીને પૃષ્ઠ તાજું કરો.
+                "
+"You entered an invalid Secret Key. Please refresh the page.","
+                    તમે અમાન્ય સિક્રેટ કી દાખલ કર્યો છે. કૃપા કરીને પૃષ્ઠ તાજું કરો.
+                "
+"Cache Storage Management","
+                    કેશ સ્ટોરેજ મેનેજમેન્ટ
+                "
+"Flush Magento Cache","
+                    ફ્લશ Magento કેશ
+                "
+"The cache storage may contain additional data. Are you sure that you want to flush it?","
+                    કેશ સંગ્રહમાં વધારાના ડેટા હોઈ શકે છે. શું તમે ખરેખર તેને ફ્લશ કરવા માંગો છો?
+                "
+"Flush Cache Storage","
+                    ફ્લશ કેશ સ્ટોરેજ
+                "
+Invalidated,"
+                    અમાન્ય
+                "
+Orders,"
+                    ઓર્ડર
+                "
+Amounts,"
+                    રકમ
+                "
+Bestsellers,"
+                    શ્રેષ્ઠ વેચનાર
+                "
+"Most Viewed Products","
+                    સૌથી વધુ જોવાયેલી પ્રોડક્ટ્સ
+                "
+Customers,"
+                    ગ્રાહકો
+                "
+Customer,"
+                    ગ્રાહક
+                "
+Guest,"
+                    મહેમાન
+                "
+Items,"
+                    વસ્તુઓ
+                "
+Total,"
+                    કુલ
+                "
+"Lifetime Sales","
+                    લાઇફટાઇમ સેલ્સ
+                "
+"Average Order","
+                    સરેરાશ ઓર્ડર
+                "
+Price,"
+                    કિંમત
+                "
+Quantity,"
+                    જથ્થો
+                "
+Views,"
+                    દૃશ્યો
+                "
+Revenue,"
+                    મહેસૂલ
+                "
+Tax,"
+                    ટેક્સ
+                "
+Shipping,"
+                    શિપિંગ
+                "
+"Images (.gif, .jpg, .png)","
+                    છબીઓ (.gif, .jpg, .png)
+                "
+"Media (.avi, .flv, .swf)","
+                    Media (.avi, .flv, .swf)
+                "
+"All Files","
+                    બધી ફાઇલ
+                "
+"Reset to Default","
+                    મૂળભૂત ને પુન:સુયોજિત કરો
+                "
+"All Store Views","
+                    બધા સ્ટોર દૃશ્યો
+                "
+"Save Account","
+                    એકાઉન્ટ સેવ કરો
+                "
+"My Account","
+                    મારુ ખાતુ
+                "
+"First Name","
+                    પ્રથમ નામ (તમારું નામ)
+                "
+"Last Name","
+                    અટક
+                "
+Email,"
+                    ઇમેલ
+                "
+"New Password","
+                    નવો પાસવર્ડ
+                "
+"Password Confirmation","
+                    પાસવર્ડ ખાતરી
+                "
+"Interface Locale","
+                    ઈન્ટરફેસ લોકેલ
+                "
+"Current User Identity Verification","
+                    વર્તમાન વપરાશકર્તા ઓળખ ચકાસણી
+                "
+"Save Cache Settings","
+                    કેશ સેટિંગ્સ સાચવો
+                "
+"Catalog Rewrites","
+                    કેટલોગ રીવાઈટ્સ
+                "
+Refresh,"
+                    પુનઃતાજું કરો
+                "
+"Images Cache","
+                    છબીઓ કેશ
+                "
+Clear,"
+                    સાફ
+                "
+"Search Index","
+                    શોધ ઈન્ડેક્સ
+                "
+Rebuild,"
+                    ફરીથી બનાવો
+                "
+"Inventory Stock Status","
+                    ઇન્વેન્ટરી સ્ટોક સ્થિતિ
+                "
+"Rebuild Flat Catalog Category","
+                    ફ્લેટ કેટલોગ કેટેગરી ફરીથી બનાવો
+                "
+"Rebuild Flat Catalog Product","
+                    ફ્લેટ કેટલોગ ઉત્પાદન ફરીથી બનાવો
+                "
+"Cache Control","
+                    કેશ નિયંત્રણ
+                "
+"All Cache","
+                    બધા કેશ
+                "
+"No change","
+                    કોઈ ફેરફાર નહી
+                "
+Disable,"
+                    અક્ષમ કરો
+                "
+Enable,"
+                    સક્ષમ કરો
+                "
+"Add Design Change","
+                    ડિઝાઇન બદલો ઉમેરો
+                "
+Back,"
+                    પાછું
+                "
+Delete,"
+                    કાઢી નાખો
+                "
+"Are you sure?","
+                    તમે ચોક્કસ છો?
+                "
+Save,"
+                    સાચવો
+                "
+"Edit Design Change","
+                    ડિઝાઇન બદલો ફેરફાર કરો
+                "
+"New Store Design Change","
+                    નવી સ્ટોર ડિઝાઇન બદલો
+                "
+"General Settings","
+                    સામાન્ય સુયોજનો
+                "
+Store,"
+                    સ્ટોર
+                "
+"-- Please Select --","
+                    -- મહેરબાની કરી, પસંદ કરો --
+                "
+"Custom Design","
+                    કસ્ટમ ડિઝાઇન
+                "
+"Date From","
+                    તારીખ થી
+                "
+"Design Change","
+                    ડિઝાઇન બદલો
+                "
+General,"
+                    સામાન્ય
+                "
+Cancel,"
+                    રદ કરો
+                "
+"Delete %1 '%2'","
+                    %1 '%2' દૂર કરો
+                "
+"Delete %1","
+                    %1 દૂર કરો
+                "
+"Block Information","
+                    બ્લોક માહિતી
+                "
+"Backup Options","
+                    બૅકઅપ વિકલ્પો
+                "
+"Create DB Backup","
+                    ડીબી બેકઅપ બનાવો
+                "
+Yes,"
+                    હા
+                "
+No,"
+                    ના
+                "
+"Delete Store","
+                    સ્ટોર કાઢી નાખો
+                "
+"Delete Web Site","
+                    વેબ સાઇટ કાઢી નાખો
+                "
+"Save Web Site","
+                    વેબ સાઇટ સાચવો
+                "
+"Edit Web Site","
+                    વેબ સાઇટ સંપાદિત કરો
+                "
+"New Web Site","
+                    નવી વેબ સાઇટ
+                "
+"Edit Store","
+                    સ્ટોર સંપાદિત કરો
+                "
+"New Store","
+                    નવું સ્ટોર
+                "
+"Edit Store View","
+                    સ્ટોર દૃશ્ય સંપાદિત કરો
+                "
+"New Store View","
+                    નવું સ્ટોર દૃશ્ય
+                "
+"Store Information","
+                    સ્ટોર માહિતી
+                "
+"Web Site","
+                    વેબ સાઈટ
+                "
+Name,"
+                    નામ
+                "
+Code,"
+                    કોડ
+                "
+"Default Store View","
+                    ડિફોલ્ટ સ્ટોર દૃશ્ય
+                "
+"Store View Information","
+                    સ્ટોર દૃશ્ય માહિતી
+                "
+Status,"
+                    સ્થિતિ
+                "
+Disabled,"
+                    અક્ષમ
+                "
+Enabled,"
+                    સક્ષમ
+                "
+"Sort Order","
+                    ક્રમબધ ઓર્ડર
+                "
+"Web Site Information","
+                    વેબ સાઇટ માહિતી
+                "
+"Default Store","
+                    ડિફોલ્ટ સ્ટોર
+                "
+"Create Website","
+                    વેબસાઇટ બનાવો
+                "
+"Create Store","
+                    સ્ટોર બનાવો
+                "
+"Create Store View","
+                    સ્ટોર દૃશ્ય બનાવો
+                "
+Home,"
+                    હોમ
+                "
+Reset,"
+                    રીસેટ
+                "
+"Are you sure you want to do this?","
+                    તમે આ કરવા બાબતે સુનિશ્ચિત છો?
+                "
+"Add New Image","
+                    નવી છબી ઉમેરો
+                "
+Export,"
+                    નિકાસ
+                "
+Submit,"
+                    સબમિટ કરો
+                "
 Delete,"કાઢી નાખો"
-Save,સાચવો
 Name,નામ
-Disabled,અક્ષમ
-Export,નિકાસ
-Submit,"સબમિટ કરો"
 "Save and Continue Edit","સાચવો અને સંપાદિત કરવાનું ચાલુ રાખો"
+Save,સાચવો
 "* Required Fields","* જરૂરી માહિતી"
+Submit,"સબમિટ કરો"
+Email,ઇમેઇલ
 Import,આયાત
 "Change Status","સ્થિતિ બદલો"
+Disabled,અક્ષમ
 message,સંદેશ
 name,નામ
 OK,"ઠીક છે"
 "Change status","સ્થિતિ બદલો"
+Enable,"સક્ષમ કરો"
+Disable,"અક્ષમ કરો"
 Ok,"ઠીક છે"
 none,"કંઈ નહીં"
 edit,"સંપાદિત કરો"
@@ -60,6 +374,7 @@ save,સાચવો
 Required,ફરજિયાત
 None,"એકે નહિ"
 status,સ્થિતિ
+Export,નિકાસ
 quantity,જથ્થો
 ALL,બધા
 yes,હા
