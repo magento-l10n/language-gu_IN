@@ -81,6 +81,7 @@ Severity,તીવ્રતા
 Message,સંદેશ
 Actions,ક્રિયાઓ
 "Close popup","પોપઅપ બંધ કરો"
+"You have viewed and resolved all recent system notices. Please refresh the web page to clear the notice alert.","તમે બધી તાજેતરની સિસ્ટમ સૂચનાઓ જોઈ અને ઉકેલી લીધી છે. સૂચના ચેતવણીને સાફ કરવા માટે કૃપા કરીને વેબ પૃષ્ઠને રિફ્રેશ કરો."
 "Manage Shopping Cart","શોપિંગ કાર્ટ મેનેજ કરો"
 "Create Order","ઓર્ડર બનાવો"
 Back,પાછું
@@ -218,7 +219,16 @@ Yes,હા
 Synonym,સમાનાર્થી
 "--Please Select--","--કૃપા કરી પસંદ કરો--"
 Done,પૂર્ણ
+Retry,"ફરી પ્રયાસ કરો"
+"Bulk Actions Log","બલ્ક ક્રિયાઓ લોગ"
+Details,વિગતો
+"View Details","વિગતો જુઓ"
+Report,અહેવાલ
+"Bulk Actions","જથ્થાબંધ ક્રિયાઓ"
 Status,સ્થિતિ
+"Meta Information","મેટા માહિતી"
+Error,ભૂલ
+"Number of Records Affected","અસરગ્રસ્ત રેકોર્ડની સંખ્યા"
 "Please Select","કૃપા કરી પસંદ કરો"
 Enabled,સક્ષમ
 options,વિકલ્પો
@@ -1396,7 +1406,6 @@ Disable,"અક્ષમ કરો"
 Overview,અવલોકન
 "Skip to the end of the images gallery","છબીઓ ગેલેરીના અંત પર જાઓ"
 "Skip to the beginning of the images gallery","છબીઓ ગેલેરીની શરૂઆત પર જાઓ"
-Details,વિગતો
 "Recently Compared","તાજેતરમાં સરખામણી"
 "Add To Cart","સૂચી માં સામેલ કરો"
 "Add To Compare","સરખામણી કરો"
@@ -1661,7 +1670,6 @@ Login,"પ્રવેશ કરો"
 edit,"સંપાદિત કરો"
 "Order Summary","ઑર્ડર સારાંશ"
 "View and Edit Cart","કાર્ટ જુઓ અને સંપાદિત કરો"
-"View Details","વિગતો જુઓ"
 "Field ","ક્ષેત્ર "
 " is required."," જરૂરી છે."
 "Provided Zip/Postal Code seems to be invalid.","પ્રદાન કરેલ ઝિપ / પોસ્ટલ કોડ અમાન્ય લાગે છે."
