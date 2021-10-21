@@ -1312,7 +1312,6 @@ Overview,અવલોકન
 "Learn more","વધુ શીખો"
 "Recently Viewed","તાજેતરમાં જોવાયેલ"
 Disabled,અક્ષમ
-"Invalid method: %1","અમાન્ય પદ્ધતિ:%1"
 City,શહેર
 Country,દેશ
 State/Province,"રાજ્ય / પ્રાંત"
@@ -1366,6 +1365,7 @@ Checkout,ચેકઆઉટ
 "Sorry, guest checkout is not available.","માફ કરશો, મહેમાન ચેકઆઉટ ઉપલબ્ધ નથી."
 "You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","તમારે તમારા એકાઉન્ટની પુષ્ટિ કરવી આવશ્યક છે. કૃપા કરીને નવી લિંક માટે પુષ્ટિ લિંક અથવા <a href=""%1""> અહીં ક્લિક કરો </a> માટે તમારું ઇમેઇલ તપાસો."
 "Load customer quote error","ગ્રાહક ક્વોટ ભૂલ લોડ કરો"
+"Invalid method: %1","અમાન્ય પદ્ધતિ:%1"
 Error!,ભૂલ!
 "DB exception","ડીબી અપવાદ"
 "Print receipt","છાપવા માટેની રસીદ"
@@ -1538,7 +1538,6 @@ LocalizedException,સ્થાનિકીકરણ
 "Are you sure you want to delete a %1 record?","શું તમે ખરેખર %1 રેકોર્ડ કાઢી નાખવા માંગો છો?"
 View,જુઓ
 "No files found","કોઈ ફાઇલો મળી નથી"
-"We could not detect a size.","અમે કદ શોધી શક્યા નહીં."
 "Save Page","પૃષ્ઠ સાચવો"
 "Media Gallery","મીડિયા ગેલેરી"
 "Content Management","સામગ્રી સંચાલન"
@@ -2600,7 +2599,6 @@ New,નવું
 "test message","પરીક્ષણ સંદેશ"
 "Email has not been sent","ઇમેઇલ મોકલવામાં આવ્યો નથી"
 "Authorized amount of %1","અધિકૃત રકમ%1"
-" Transaction ID: ""%1"""," ટ્રાંઝેક્શન ID: ""%1"""
 "Group was removed","જૂથ દૂર કરવામાં આવ્યો હતો"
 "Changing address information will not recalculate shipping, tax or other order amount.","સરનામાંની માહિતી બદલવાનું શિપિંગ, ટેક્સ અથવા અન્ય ઓર્ડરની રકમનું પુન: મૂલ્યાંકન કરશે નહીં."
 "Comment Text","ટિપ્પણી ટેક્સ્ટ"
@@ -3069,6 +3067,7 @@ Manage,"મેનેજ કરો"
 welcome,"સ્વાગત છે"
 "Design Configuration","ડિઝાઇન રૂપરેખાંકન"
 "Something went wrong while saving this configuration:","આ ગોઠવણી સાચવતી વખતે કંઈક ખોટું થયું:"
+"We cannot find a theme with id ""%1"".","અમે id ""%1"" સાથે કોઈ થીમ શોધી શકતા નથી."
 "You deleted the theme.","તમે થીમ કાઢી નાખી."
 "We cannot delete the theme.","અમે થીમ કાઢી નાખી શકતા નથી."
 "File not found: ""%1"".","ફાઇલ મળી નથી: ""%1""."
@@ -3078,7 +3077,6 @@ welcome,"સ્વાગત છે"
 "This theme is not editable.","આ થીમ સંપાદનયોગ્ય નથી."
 "You saved the theme.","તમે થીમ સાચવી."
 "We can't upload the CSS file right now.","અમે હમણાં જ સીએસએસ ફાઇલ અપલોડ કરી શકતા નથી."
-"We cannot find a theme with id ""%1"".","અમે id ""%1"" સાથે કોઈ થીમ શોધી શકતા નથી."
 "We can't upload the JS file right now.","અમે હાલમાં જેએસ ફાઇલ અપલોડ કરી શકતા નથી."
 "Sorry, something went wrong. That's all we know.","માફ કરશો, કંઈક ખોટું થયું હતું. આ બધું આપણે જાણીએ છીએ."
 "Invalid type","અમાન્ય પ્રકાર"
